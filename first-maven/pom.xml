@@ -6,8 +6,8 @@
   <name>first-maven</name>
   
   <properties>
-  <maven.compile.targer>1.8</maven.compile.targer>
-  <maven.compile.source>1.8</maven.compile.source>
+  <maven.compile.targer>18.9</maven.compile.targer>
+  <maven.compile.source>18.9</maven.compile.source>
   <junit.jupiter.version>5.4.0</junit.jupiter.version>
   </properties>
   
